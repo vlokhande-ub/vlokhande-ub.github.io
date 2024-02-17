@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a tenure-track Assistant Professor in the Department of [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University at Buffalo, SUNY](https://www.buffalo.edu/). Additionally, I am affiliated with the faculty cluster in Artificial Intelligence (AI) within [the School of Engineering and Applied Sciences (SEAS)](https://engineering.buffalo.edu/).
+I am a tenure-track Assistant Professor in the Department of [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University at Buffalo, SUNY](https://www.buffalo.edu/). I am also affiliated with the [Institute of Artificial Intelligence and Data Science (IAD).](https://www.buffalo.edu/ai-data-science.html)
 
 My research focuses on computer vision and machine learning, aiming to enhance the reliability and robustness of models. I engage in applied research, drawing from ideas and concepts found in statistics, optimization, and mathematical literature related to modern deep neural networks.
 
