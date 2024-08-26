@@ -7,8 +7,87 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="">
 
+#### Pre-prints:
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/craft.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="https://arxiv.org/pdf/2407.15894" id>
+    <papertitle> Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning </papertitle>
+        </a>
+        <br>
+        <a href="https://jingchensun.github.io/">Jingchen Sun, </a>
+        <a href="https://openreview.net/profile?id=~Rohan_Sharma1">Rohan Sharma, </a>
+        <strong>Vishnu Suresh Lokhande, </strong>  
+        <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> <br>
+    [<a href="https://arxiv.org/pdf/2407.15894">ArXiv</a>]	      
+    <br><br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div> <!-- Closing div -->
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/multiedits.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="https://arxiv.org/abs/2406.00985" id>
+    <papertitle> MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models </papertitle>
+        </a>
+        <br>
+        <a href="https://mingzhenhuang.com/">Mingzhen Huang, </a>
+        <a href="https://shanface33.github.io/">Jialing Cai, </a>
+        <a href="https://shanface33.github.io/">Shan Jia, </a>
+        <strong>Vishnu Suresh Lokhande, </strong>  
+        <a href="https://cse.buffalo.edu/~siweilyu/">Siwei Lyu</a> <br>
+    [<a href="https://arxiv.org/abs/2406.00985">ArXiv</a>]	      
+    <br><br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div> <!-- Closing div -->
+
+
+
+#### Peer-reviewed:
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/pooling_cat.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="https://openreview.net/pdf?id=2Mo7v69otj" id>
+    <papertitle> Pooling Image Datasets with Multiple Covariate Shift and Imbalance </papertitle>
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/sotirios-panagiotis-chytas-53894b164/">Sotirios Panagiotis Chytas, </a>
+        <strong>Vishnu Suresh Lokhande, </strong>  
+        <a href="https://www.biostat.wisc.edu/~vsingh/">Vikas Singh </a>  <br>
+    [<a href="https://openreview.net/pdf?id=2Mo7v69otj">OpenReview</a>]	      
+    <br>
+        <em>12th International Conference on Learning Representations (ICLR-24)  </em> <br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div> <!-- Closing div -->
+
+<!-- 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -31,7 +110,9 @@ nav_order: 1
     </td>
 </tr>
 </table>
+-->
 
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -57,9 +138,10 @@ nav_order: 1
     </td>
 </tr>
 </table>
+</div> <!-- Closing div -->
 
 
-
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -84,8 +166,9 @@ nav_order: 1
     </td>
 </tr>
 </table>
+</div> <!-- Closing div -->
 
-
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -111,7 +194,9 @@ nav_order: 1
     </td>
 </tr>
 </table>
+</div> <!-- Closing div -->
 
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -134,9 +219,9 @@ nav_order: 1
     </td>
 </tr>
 </table>      
+</div> <!-- Closing div -->
 
-
-
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -161,7 +246,9 @@ nav_order: 1
         </td>
 </tr>
 </table>
+</div> <!-- Closing div -->
 
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
         <tr>
         <td width="25%">
@@ -189,8 +276,9 @@ nav_order: 1
                 </td>
         </tr>
 </table>
+</div> <!-- Closing div -->
 
-
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -211,11 +299,12 @@ nav_order: 1
         [<a href="https://github.com/vsingh-group/ICL/blob/main/slides_AAAI2021.pdf">Slides</a>]<br>
         <em>Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21) </em> <br>
     </p>
-        </td>
+    </td>
 </tr>
-    </table>
+</table>
+</div> <!-- Closing div -->
 
-
+<div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
@@ -236,11 +325,13 @@ nav_order: 1
         [<a href="https://github.com/lokhande-vishnu/FairALM">Code</a>]<br>
         <em> 16th European Conference on Computer Vision (ECCV-20) </em> <br>
     </p>
-        </td>
+    </td>
 </tr>
-    </table>
-    
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+</table>
+</div> <!-- Closing div -->
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
         <img src='{{ site.baseurl }}/assets/img/projectpics/deep_hermites.png' height="94" width="128">
@@ -262,11 +353,13 @@ nav_order: 1
         <em> 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR-20)  </em> <br>
         <em> Also, <strong>Best Student Paper Award</strong> at <a href="https://mmls.cc/">MMLS 2019</a> </em>
     </p>
-        </td>
+    </td>
 </tr>
-    </table>
+</table>
+</div> <!-- Closing div -->
     
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
         <img src='{{ site.baseurl }}/assets/img/projectpics/entity_resolve.png' height="64" width="128">
@@ -286,11 +379,13 @@ nav_order: 1
         [<a href="https://github.com/lokhande-vishnu/EntityResolution/blob/master/slides_AAAI20.pdf">Slides</a>]<br>
         <em> Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI-20) </em> <br> <strong style="color:red"> (Oral Presentation) </strong> <br>
     </p>
-        </td>
+    </td>
 </tr>
-    </table>
+</table>
+</div> <!-- Closing div -->
 
-    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
         <img src='{{ site.baseurl }}/assets/img/projectpics/deepcg.png' height="128" width="128">
@@ -310,9 +405,7 @@ nav_order: 1
         <em> Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19) </em> <br> <strong style="color:red"> (Oral Presentation) </strong> <br>
         <em> Also, <strong>Spotlight Presentation</strong> at <a href="http://midwest-ml.org/2018/">MMLS 2018</a> </em>		
     </p>
-        </td>
+    </td>
 </tr>
-    </table>
-
-
-</div>
+</table>
+</div> <!-- Closing div -->
