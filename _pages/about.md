@@ -28,7 +28,7 @@ I earned my PhD in 2023 from the University of Wisconsin-Madison, where I had th
 
 **I am actively seeking collaborations and highly motivated Ph.D. candidates, as well as M.S. students at UB. Interested individuals are encouraged to [apply here](https://forms.gle/9jzFC42BKVRm7jxKA).**
 
-**Additionally, I am also enthusiastic about exploring opportunities for industrial collaborations.**
+**Additionally, I am also open to exploring industrial collaboration opportunities, either as a consultant or part-time collaborator, and am willing to sign a non-disclosure agreement (NDA) if required.**
 
 <!--
 .Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

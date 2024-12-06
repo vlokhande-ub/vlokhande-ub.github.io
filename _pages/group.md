@@ -9,7 +9,7 @@ nav_order: 4
 
 #### Current Students:
   - [Ayush Roy](https://ayushroy2001.github.io/) (PhD Student)
-  - [Naresh Devulapally](https://scholar.google.com/citations?user=20vLrzMAAAAJ&hl=en) (PhD Student)
+  - [Naresh Devulapally](http://naresh-ub.github.io/) (PhD Student)
   - [Mingzhen Huang](https://mingzhenhuang.com/) (student collaborator, PI: Siwei Lyu)
   - [Jingchen Sun](https://jingchensun.github.io/) (student collaborator, PI: Changyou Chen)
   - [Sudhir Yarram](https://skrya.github.io/) (student collaborator, PI: Junsong Yuan)

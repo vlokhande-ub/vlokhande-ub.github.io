@@ -8,6 +8,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
+<!-- 
 #### Pre-prints:
 
 <div class="">
@@ -32,7 +33,7 @@ nav_order: 1
     </td>
 </tr>
 </table>
-</div> <!-- Closing div -->
+</div> 
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -57,11 +58,66 @@ nav_order: 1
     </td>
 </tr>
 </table>
-</div> <!-- Closing div -->
+</div> 
+-->
 
 
+<!--  #### Peer-reviewed: -->
+<br clear="all">
+‡  indicates authors who worked closely with me   
+<br>
+** indicates corresponding author
 
-#### Peer-reviewed:
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/craft.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="https://arxiv.org/abs/2407.15894" id>
+    <papertitle> Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning </papertitle>
+        </a>
+        <br>
+        <a href="https://jingchensun.github.io/">Jingchen Sun, </a>
+        <a href="https://openreview.net/profile?id=~Rohan_Sharma1">Rohan Sharma, </a>
+        <strong>Vishnu Suresh Lokhande<sup>**</sup>, </strong>  
+        <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> <br>
+    [<a href="https://arxiv.org/abs/2407.15894">ArXiv</a>]	      
+    <br>
+        <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-25)  </em> <br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div> 
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/multiedits.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="https://arxiv.org/abs/2406.00985" id>
+    <papertitle> ParallelEdits: Efficient Multi-Aspect Text-Driven Image Editing with Attention Grouping </papertitle>
+        </a>
+        <br>
+        <a href="https://mingzhenhuang.com/">Mingzhen Huang, </a>
+        <a href="https://shanface33.github.io/">Jialing Cai, </a>
+        <a href="https://shanface33.github.io/">Shan Jia, </a>
+        <strong>Vishnu Suresh Lokhande<sup>**</sup>, </strong>  
+        <a href="https://cse.buffalo.edu/~siweilyu/">Siwei Lyu<sup>**</sup></a> <br>
+    [<a href="https://openreview.net/forum?id=cCL92OPlDz">OpenReview</a>][<a href="https://huggingface.co/datasets/UB-CVML-Group/PIE_Bench_pp">Dataset</a>][<a href="https://github.com/vlokhande-ub/ParallelEdits">Code</a>]
+    <br>
+    <em>39th Annual Conference on Neural Information Processing Systems (NeurIPS-24)  </em> <br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div> 
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -75,7 +131,7 @@ nav_order: 1
     <papertitle> Pooling Image Datasets with Multiple Covariate Shift and Imbalance </papertitle>
         </a>
         <br>
-        <a href="https://www.linkedin.com/in/sotirios-panagiotis-chytas-53894b164/">Sotirios Panagiotis Chytas, </a>
+        <a href="https://www.linkedin.com/in/sotirios-panagiotis-chytas-53894b164/">Sotirios Panagiotis Chytas<sup>‡</sup>, </a>
         <strong>Vishnu Suresh Lokhande, </strong>  
         <a href="https://www.biostat.wisc.edu/~vsingh/">Vikas Singh </a>  <br>
     [<a href="https://openreview.net/pdf?id=2Mo7v69otj">OpenReview</a>]	      
@@ -124,7 +180,7 @@ nav_order: 1
     <papertitle> Efficient Discrete Multi Marginal Optimal Transport Regularization </papertitle>
         </a>
         <br>
-        <a href="https://pages.cs.wisc.edu/~ronakrm/">Ronak Mehta, </a>                 
+        <a href="https://pages.cs.wisc.edu/~ronakrm/">Ronak Mehta<sup>‡</sup>, </a>                 
         <a href="https://www.linkedin.com/in/jeff-kline/">Jeffery Kline, </a>
         <strong>Vishnu Suresh Lokhande, </strong>  
         <a href="https://www.linkedin.com/in/glenn-fung/">Glenn Fung, </a>
@@ -290,7 +346,7 @@ nav_order: 1
     <papertitle> Learning Invariant Representations using Inverse Contrastive Loss</papertitle>
         </a>
         <br>
-        <a href="http://pages.cs.wisc.edu/~aka/">Aditya Kumar Akash, </a>                 
+        <a href="http://pages.cs.wisc.edu/~aka/">Aditya Kumar Akash<sup>‡</sup>, </a>                 
         <strong>Vishnu Suresh Lokhande, </strong>  
         <a href="http://pages.cs.wisc.edu/~sravi/"> Sathya N. Ravi, </a>
         <a href="https://www.biostat.wisc.edu/~vsingh/">Vikas Singh </a> <br>

@@ -7,5 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-**Spring 2024**: [CSE 574 - Introduction to Machine Learning ](https://engineering.buffalo.edu/computer-science-engineering/graduate/courses/class-schedule.html)<br>
-**Fall 2024**: [CSE 710 - Advanced Seminar on Foundation Models]({{ site.baseurl }}/courses/Fall2024_CS710)
+**Spring 2024**: [CSE 574 - Introduction to Machine Learning ](https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=12&coid=79971)<br>
+**Fall 2024**: [CSE 710 - Advanced Seminar on Foundation Models]({{ site.baseurl }}/courses/Fall2024_CS710)<br>
+**Spring 2025**: [CSE 676 - Deep Learning](https://catalogs.buffalo.edu/preview_course_nopop.php?catoid=2&coid=6274)
