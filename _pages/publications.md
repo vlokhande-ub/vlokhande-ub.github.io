@@ -64,8 +64,7 @@ nav_order: 1
 
 <!--  #### Peer-reviewed: -->
 <br clear="all">
-‡  indicates authors who worked closely with me   
-<br>
+‡ indicates authors who worked closely with me <br>
 ** indicates corresponding author
 
 <div class="">
