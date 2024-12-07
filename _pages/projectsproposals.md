@@ -1,6 +1,6 @@
 ---
 layout: page_notitle
-title: New / Ongoing !
+title: New / Ongoing!
 permalink: /projects/
 description: The following list outlines various <strong>general research directions</strong> that can serve as a starting point for discussions within our group; however, we encourage an open dialogue about any research areas that extend beyond these topics, provided they broadly align with the fields of <strong>computer vision and machine learning</strong>, as we are enthusiastic about exploring and engaging in a wide range of novel research opportunities within these domains.
 nav: true
