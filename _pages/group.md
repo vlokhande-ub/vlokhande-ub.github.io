@@ -10,9 +10,14 @@ nav_order: 4
 #### Current Students:
   - [Ayush Roy](https://ayushroy2001.github.io/) (PhD Student)
   - [Naresh Devulapally](http://naresh-ub.github.io/) (PhD Student)
-  - [Mingzhen Huang](https://mingzhenhuang.com/) (student collaborator, PI: Siwei Lyu)
-  - [Jingchen Sun](https://jingchensun.github.io/) (student collaborator, PI: Changyou Chen)
-  - [Sudhir Yarram](https://skrya.github.io/) (student collaborator, PI: Junsong Yuan)
+  - [Protyay Dey](https://protyayofficial.github.io/) (PhD Student)
+  - [Alex Lee](https://www.linkedin.com/in/weiyang-alex-lee/) (Masters Student)
+
+##### Other Student Collaborators
+  - [Arjun Ramesh Kaushik](https://arjunrkaushik.myportfolio.com/) (PI: Nalini Ratha)
+  - [Mingzhen Huang](https://mingzhenhuang.com/) (PI: Siwei Lyu)
+  - [Jingchen Sun](https://jingchensun.github.io/) (PI: Changyou Chen)
+  - [Sudhir Yarram](https://skrya.github.io/) (PI: Junsong Yuan)
 
 #### Prospective students:
 I am actively looking for enthusiastic postdoctoral researchers, PhD candidates, and master's students passionate about delving into applied machine learning and computer vision research. Proficiency in Python programming is essential, along with expertise in machine learning frameworks such as TensorFlow and PyTorch. Additionally, a solid foundation in optimization, analysis, and fundamental statistics would be advantageous. Interested students please [apply here](https://forms.gle/9jzFC42BKVRm7jxKA)
