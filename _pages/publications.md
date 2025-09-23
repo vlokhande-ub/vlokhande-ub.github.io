@@ -67,32 +67,59 @@ nav_order: 1
 ‡ indicates authors who worked closely with me <br>
 ** indicates corresponding author
 
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/unlearning.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+            <p>
+        <a href="" id>
+    <papertitle> Latent Diffusion Unlearning: Protecting against Unauthorized Personalization through Trajectory Shifted Perturbations </papertitle>
+        </a>
+        <br>
+        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally*, </a>
+        <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
+        <a href="https://www.tejasgokhale.com/">Tejas Gokhale, </a>
+        <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande<sup>**</sup></a></strong> <br>
+    [<a href="">Project Page</a>]	      
+    <br>
+        <em>ACM Multimedia 2025</em><br>   
+    </p>
+    </td>
+</tr>
+</table>
+</div>
 
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
-            <img src='{{ site.baseurl }}/assets/img/projectpics/craft.png' height="128" width="152">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/watermarking.png' height="128" width="152">
     </td>
     <td valign="top" width="75%">
             <p>
-        <a href="https://arxiv.org/abs/2407.15894" id>
-    <papertitle> Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning </papertitle>
+        <a href="https://arxiv.org/abs/2503.11945" id>
+    <papertitle> Your Text Encoder Can Be An Object-Level Watermarking Controller </papertitle>
         </a>
         <br>
-        <a href="https://jingchensun.github.io/">Jingchen Sun, </a>
-        <a href="https://openreview.net/profile?id=~Rohan_Sharma1">Rohan Sharma, </a>
-        <strong>Vishnu Suresh Lokhande<sup>**</sup>, </strong>  
-        <a href="https://cse.buffalo.edu/~changyou/">Changyou Chen</a> <br>
-    [<a href="https://arxiv.org/abs/2407.15894">ArXiv</a>]	      
+        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally, </a>
+        <a href="https://www.mingzhenhuang.com/">Mingzhen Huang, </a>
+        <a href="https://vishal3477.github.io/">Vishal Asnani, </a>
+        <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
+        <a href="https://cse.buffalo.edu/~siweilyu/">Siwei Lyu, </a>
+        <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande<sup>**</sup></a></strong> <br>
+    [<a href="https://arxiv.org/abs/2503.11945">ArXiv</a>]	      
     <br>
-        <em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-25)  </em> <br>   
+        <em>International Conference on Computer Vision (ICCV-25)</em> <br>   
     </p>
     </td>
 </tr>
 </table>
-</div> 
+</div>
+
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
