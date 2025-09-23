@@ -97,7 +97,7 @@ nav_order: 1
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
-            <img src='{{ site.baseurl }}/assets/img/projectpics/watermarking.png' height="128" width="152">
+            <img src='{{ site.baseurl }}/assets/img/projectpics/watermark.png' height="128" width="152">
     </td>
     <td valign="top" width="75%">
             <p>
