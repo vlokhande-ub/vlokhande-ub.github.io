@@ -79,7 +79,7 @@ nav_order: 1
     <papertitle> Latent Diffusion Unlearning: Protecting against Unauthorized Personalization through Trajectory Shifted Perturbations </papertitle>
         </a>
         <br>
-        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally*, </a>
+        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally<sup>**</sup>, </a>
         <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
         <a href="https://www.tejasgokhale.com/">Tejas Gokhale, </a>
         <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande<sup>**</sup></a></strong> <br>
@@ -105,7 +105,7 @@ nav_order: 1
     <papertitle> Your Text Encoder Can Be An Object-Level Watermarking Controller </papertitle>
         </a>
         <br>
-        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally, </a>
+        <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally<sup>**</sup>, </a>
         <a href="https://www.mingzhenhuang.com/">Mingzhen Huang, </a>
         <a href="https://vishal3477.github.io/">Vishal Asnani, </a>
         <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
