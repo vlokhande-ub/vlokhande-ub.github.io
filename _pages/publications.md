@@ -75,7 +75,7 @@ nav_order: 1
     </td>
     <td valign="top" width="75%">
             <p>
-        <a href="" id>
+        <a href="https://arxiv.org/abs/2510.03089" id>
     <papertitle> Latent Diffusion Unlearning: Protecting against Unauthorized Personalization through Trajectory Shifted Perturbations </papertitle>
         </a>
         <br>
@@ -83,7 +83,7 @@ nav_order: 1
         <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
         <a href="https://www.tejasgokhale.com/">Tejas Gokhale, </a>
         <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande<sup>**</sup></a></strong> <br>
-    [<a href="https://github.com/vlokhande-ub/unlearnable_samples">Code</a>]	      
+    [<a href="https://arxiv.org/abs/2510.03089">ArXiv</a>][<a href="https://github.com/vlokhande-ub/unlearnable_samples">Code</a>]	      
     <br>
         <em>ACM Multimedia 2025</em><br>   
     </p>
