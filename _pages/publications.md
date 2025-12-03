@@ -67,6 +67,58 @@ nav_order: 1
 ‡ indicates authors who worked closely with me <br>
 ** indicates corresponding author
 
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/fllt_wacv.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="">
+                <papertitle>Forget Less by Learning Together through Concept Consolidation</papertitle>
+            </a>
+            <br>
+            <a href="https://scholar.google.com/citations?user=F4gJbXAAAAAJ&hl=en">Arjun Ramesh Kaushik, </a>
+            <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong>,
+            <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha, </a>
+            <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a>
+            <em>The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</em>
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/fllp_aaai.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="" id>
+                <papertitle>Forget Less by Learning from Parents Through Hierarchical Relationships</papertitle>
+            </a>
+            <br>
+            <a href="https://scholar.google.com/citations?user=F4gJbXAAAAAJ&hl=en">Arjun Ramesh Kaushik,</a>
+            <a href="https://naresh-ub.github.io/main/intro.html">Naresh Kumar Devulapally,</a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong>,
+            <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha,</a>
+            <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a>
+            <em>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</em><br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
