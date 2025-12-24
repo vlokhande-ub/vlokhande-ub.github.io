@@ -85,7 +85,8 @@ nav_order: 1
             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong>,
             <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha, </a>
             <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a> <br>
-            <em>The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</em>
+            <em>The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</em> <br>
+            <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
@@ -112,6 +113,7 @@ nav_order: 1
             <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha,</a>
             <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a> <br>
             <em>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</em><br>
+            <em> <strong>(To Appear)</strong> </em>
         </p>
     </td>
 </tr>
