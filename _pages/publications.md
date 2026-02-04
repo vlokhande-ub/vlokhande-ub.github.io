@@ -67,6 +67,30 @@ nav_order: 1
 ‡ indicates authors who worked closely with me <br>
 ** indicates corresponding author
 
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/fllt_wacv.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="">
+                <papertitle>Beyond Pooling: Matching for Robust Generalization under Data Heterogeneity</papertitle>
+            </a>
+            <br>
+            <a href="https://ayushroy2001.github.io/">Ayush Roy, </a>
+            <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
+            <a href="https://ai.stonybrook.edu/people/faculty/lav-r-varshney">Lav R. Varshney, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS 2026)</em> <br>
+             <em> <strong>(To Appear)</strong> </em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
 
 <div class="">
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
@@ -77,6 +101,31 @@ nav_order: 1
     <td valign="top" width="75%">
         <p>
             <a href="">
+                <papertitle>GeoTTER: Leveraging Local Geometry of Optimal Transport for Zero-Shot Classification</papertitle>
+            </a>
+            <br>
+            <a href="https://www.linkedin.com/in/weiyang-alex-lee/">Wei-Yang Alex Lee, </a>
+            <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS 2026)</em> <br>
+             <em> <strong>(To Appear)</strong> </em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/fllt_wacv.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/abs/2601.01963">
                 <papertitle>Forget Less by Learning Together through Concept Consolidation</papertitle>
             </a>
             <br>
@@ -86,8 +135,6 @@ nav_order: 1
             <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha, </a>
             <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a> <br>
             <em>The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</em> <br>
-            <em> <strong>(To Appear)</strong> </em> 
-            <br>
         </p>
     </td>
 </tr>
@@ -103,7 +150,7 @@ nav_order: 1
     </td>
     <td valign="top" width="75%">
         <p>
-            <a href="" id>
+            <a href="https://arxiv.org/abs/2601.01892" id>
                 <papertitle>Forget Less by Learning from Parents Through Hierarchical Relationships</papertitle>
             </a>
             <br>
@@ -113,7 +160,6 @@ nav_order: 1
             <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha,</a>
             <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju</a> <br>
             <em>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)</em><br>
-            <em> <strong>(To Appear)</strong> </em>
         </p>
     </td>
 </tr>
