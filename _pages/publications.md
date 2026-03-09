@@ -71,18 +71,96 @@ nav_order: 1
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
-        <img src='{{ site.baseurl }}/assets/img/projectpics/beyond_pooling.png' height="128" width="152">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/manifoldgd.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/abs/2602.23295">
+                <papertitle>ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation</papertitle>
+            </a>
+            <br>
+            <a href="https://ayushroy2001.github.io/">Ayush Roy, </a>
+            <a href="https://www.linkedin.com/in/weiyang-alex-lee/">Wei-Yang Alex Lee, </a>
+            <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em> <br>
+            <em> <strong>(To Appear)</strong> </em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/edit_friendly_prompts.png' height="128" width="152">
     </td>
     <td valign="top" width="75%">
         <p>
             <a href="">
-                <papertitle>Beyond Pooling: Matching for Robust Generalization under Data Heterogeneity</papertitle>
+                <papertitle>Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion</papertitle>
+            </a>
+            <br>
+            <a href="https://naresh-ub.github.io">Naresh Kumar Devulapally, </a>
+            <a href="https://agarwalshruti15.github.io/">Shruti Agarwal, </a>
+            <a href="https://research.adobe.com/person/vishal-asnani/">Vishal Asnani, </a>
+            <strong><a href="https://vlokhande-ub.github.io">Vishnu Suresh Lokhande</a></strong><br>
+            <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em> <br>
+            <em> <strong>(To Appear)</strong> </em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/exchangeability_midl.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/abs/2507.19575">
+                <papertitle>Is Exchangeability better than I.I.D to handle Data Distribution Shifts while Pooling Data for Data-scarce Medical image segmentation?</papertitle>
             </a>
             <br>
             <a href="https://ayushroy2001.github.io/">Ayush Roy, </a>
+            <a href="https://www.linkedin.com/in/samin-enam-4215b6178">Samin Enam, </a>
+            <a href="https://medicine.buffalo.edu/faculty/profile.html?ubit=junxia">Jun Xia, </a>
+            <a href="https://www.linkedin.com/in/won-hwa-kim-26181b79">Won Hwa Kim, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <em>Medical Imaging with Deep Learning (MIDL 2026)</em> <br>
+            <em> <strong>(To Appear)</strong> </em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/beyond_pooling.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/abs/2602.07154">
+                <papertitle>Beyond Pooling: Matching for Robust Generalization under Data Heterogeneity</papertitle>
+            </a>
+            <br>
+            <a href="https://ayushroy2001.github.io/">Ayush Roy**, </a>
             <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
             <a href="https://ai.stonybrook.edu/people/faculty/lav-r-varshney">Lav R. Varshney, </a>
-            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande**</a></strong><br>
             <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS 2026)</em> <br>
              <em> <strong>(To Appear)</strong> </em> 
             <br>
