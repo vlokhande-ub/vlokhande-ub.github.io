@@ -84,7 +84,6 @@ nav_order: 1
             <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
             <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em> <br>
-            <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
@@ -101,7 +100,7 @@ nav_order: 1
     </td>
     <td valign="top" width="75%">
         <p>
-            <a href="">
+            <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Devulapally_Interpretable_Prompts_made_Edit-Friendly_Token-to-Token_Similarity_Reduction_in_dLLMs_for_CVPR_2026_paper.pdf">
                 <papertitle>Interpretable Prompts made Edit-Friendly: Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion</papertitle>
             </a>
             <br>
@@ -110,7 +109,6 @@ nav_order: 1
             <a href="https://research.adobe.com/person/vishal-asnani/">Vishal Asnani, </a>
             <strong><a href="https://vlokhande-ub.github.io">Vishnu Suresh Lokhande</a></strong><br>
             <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)</em> <br>
-            <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
@@ -136,7 +134,6 @@ nav_order: 1
             <a href="https://www.linkedin.com/in/won-hwa-kim-26181b79">Won Hwa Kim, </a>
             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
             <em>Medical Imaging with Deep Learning (MIDL 2026)</em> <br>
-            <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
@@ -162,7 +159,6 @@ nav_order: 1
             <a href="https://ai.stonybrook.edu/people/faculty/lav-r-varshney">Lav R. Varshney, </a>
             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande**</a></strong><br>
             <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS 2026)</em> <br>
-             <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
@@ -178,7 +174,7 @@ nav_order: 1
     </td>
     <td valign="top" width="75%">
         <p>
-            <a href="">
+            <a href="https://openreview.net/pdf?id=UfTbD815iu">
                 <papertitle>GeoTTER: Leveraging Local Geometry of Optimal Transport for Zero-Shot Classification</papertitle>
             </a>
             <br>
@@ -186,7 +182,6 @@ nav_order: 1
             <a href="https://rudra1988.github.io/">Rudrasis Chakraborty, </a>
             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
             <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS 2026)</em> <br>
-             <em> <strong>(To Appear)</strong> </em> 
             <br>
         </p>
     </td>
