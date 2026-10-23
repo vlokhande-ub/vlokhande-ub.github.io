@@ -35,9 +35,19 @@ layout: default
             {% endif -%}
             {%- if page.profile.more_info %}
             <div class="more-info">
-              {{ page.profile.more_info }}
+              <strong>{{ page.profile.more_info }}</strong>
             </div>
             {%- endif %}
+              <div style="display: flex; flex-direction: column; gap: 0.25rem;">
+          <iframe
+            src="https://www.google.com/maps?q=332%20Davis%20Hall%20Buffalo%20NY%2014260&z=14&output=embed"
+            title="Location map"
+            style="width: 100%; min-height: 50px; border: 0; border-radius: 6px;"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+          >
+          </iframe>
+        </div>
           </div>
           {%- endif %}
 

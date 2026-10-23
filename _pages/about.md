@@ -6,7 +6,8 @@ subtitle:
 
 profile:
   align: right
-  image: mypics/caves.jpg
+  # image: mypics/caves.jpg
+  image: mypics/lokhande_linkedin.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>332 Davis Hall</p>
@@ -22,13 +23,13 @@ social: true  # includes social icons at the bottom of the page
 
 I am a tenure-track Assistant Professor in the Department of [Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University at Buffalo, SUNY](https://www.buffalo.edu/). I am also affiliated with the [Institute of Artificial Intelligence and Data Science (IAD).](https://www.buffalo.edu/ai-data-science.html)
 
-My research focuses on computer vision and machine learning, aiming to enhance the reliability and robustness of models. I engage in applied research, drawing from ideas and concepts found in statistics, optimization, and mathematical literature related to modern deep neural networks.
+My research focuses on computer vision and machine learning. I engage in both theoretical and applied research, drawing ideas from statistical literature, optimisation theory and applied math.
 
 I earned my PhD in 2023 from the University of Wisconsin-Madison, where I had the privilege of being advised by [Vikas Singh](https://www.biostat.wisc.edu/~vsingh/). Throughout my doctoral studies, I had valuable internships at [Google Research (twice)](https://research.google/) and at [Microsoft Research](https://www.microsoft.com/en-us/research/). Earlier, I received my BTech in Electrical Engineering from IIT Kanpur in 2016, under the guidance of [Laxmidhar Behera](https://home.iitk.ac.in/~lbehera/).
 
 **I am actively seeking collaborations and highly motivated Ph.D. candidates, as well as M.S. students at UB. Interested individuals are encouraged to [apply here](https://forms.gle/FKjYHFa25f218qZv8).**
 
-**Additionally, I am also open to exploring industrial collaboration opportunities, either as a consultant or part-time collaborator, and am willing to sign a non-disclosure agreement (NDA) if required.**
+<!-- **Additionally, I am also open to exploring industrial collaboration opportunities, either as a consultant or part-time collaborator, and am willing to sign a non-disclosure agreement (NDA) if required.** -->
 
 <!--
 .Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

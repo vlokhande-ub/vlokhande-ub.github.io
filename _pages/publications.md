@@ -71,6 +71,82 @@ nav_order: 1
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tr>
     <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/manifold_aware_graphdiffusion.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/pdf/2610.17014">
+                <papertitle>MAGNET: Manifold-Aware Graph Diffusion Network for Connectome Generation</papertitle>
+            </a>
+            <br>
+            <a href="https://protyayofficial.github.io/">Protyay Dey, </a>
+            <a href="https://ayushroy2001.github.io/"> Ayush Roy, </a>
+            <a href="https://scholar.google.com/citations?user=tzPAwQwAAAAJ&hl=en">Hyuna Cho, </a>
+            <a href="https://www.linkedin.com/in/won-hwa-kim-26181b79"> Won Hwa Kim, </a>
+             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <em>40th Conference on Neural Information Processing Systems 2026 (NeurIPS 2026)</em> 
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/oscar.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://arxiv.org/abs/2604.01624">
+                <papertitle>OSCAR: Orchestrated Self-verification and Cross-path Refinement</papertitle>
+            </a>
+            <br>
+            <a href="https://ynshah3.github.io/">Yash Shah, </a>
+            <a href="https://scholar.google.com/citations?user=ZXcbxWIAAAAJ&hl=en">  Abhijit Chakraborty, </a>
+            <a href="https://naresh-ub.github.io">Naresh Kumar Devulapally, </a>
+             <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong>
+            <a href="https://scholar.google.com/citations?user=Bs5H0S4AAAAJ&hl=en"> Vivek Gupta, </a><br>
+            <em>Conference of Language Modelling 2026 (CoLM 2026)</em> <br>
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
+        <img src='{{ site.baseurl }}/assets/img/projectpics/Geometry-aware.png' height="128" width="152">
+    </td>
+    <td valign="top" width="75%">
+        <p>
+            <a href="https://openreview.net/forum?id=Wb9wwUF7aV">
+                <papertitle>GE-FM: Geometry-aware Energy-based Flow Matching for Non Euclidean Manifolds</papertitle>
+            </a>
+            <br>
+            <a href="https://ayushroy2001.github.io/">Ayush Roy, </a>
+            <a href="https://www.linkedin.com/in/arjun-ramesh-kaushik/"> Arjun Ramesh Kaushik, </a>
+            <strong><a href="https://vlokhande-ub.github.io/">Vishnu Suresh Lokhande</a></strong><br>
+            <a href="https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en">Nalini K. Ratha, </a>
+            <a href="https://scholar.google.com/citations?user=ruIgbscAAAAJ&hl=en">Venu Govindaraju, </a><br>
+             <em>Transactions on Machine Learning Research (TMLR 2026)</em> <br>
+            <br>
+        </p>
+    </td>
+</tr>
+</table>
+</div>
+
+
+<div class="">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr>
+    <td width="25%">
         <img src='{{ site.baseurl }}/assets/img/projectpics/manifoldgd.png' height="128" width="152">
     </td>
     <td valign="top" width="75%">
