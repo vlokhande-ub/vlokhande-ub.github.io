@@ -81,6 +81,9 @@
               </li>
               {%- else %}
               <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
+                {%- if p.external_url %}
+                <a class="nav-link" href="{{ p.external_url }}" target="_blank" rel="noopener noreferrer">{{ p.title }}</a>
+                {%- else %}
                 {%- if p.permalink contains '/blog/' %}
                 {%- assign url = '/blog/' -%}
                 {%- else -%}
@@ -91,6 +94,7 @@
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
+                {%- endif %}
               </li>
               {%- endif -%}
               {%- endif -%}

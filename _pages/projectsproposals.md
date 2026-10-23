@@ -1,8 +1,8 @@
 ---
 layout: page_notitle
-title: New / Ongoing!
+title: Projects
 permalink: /projects/
-description: The following list outlines various <strong>general research directions</strong> that can serve as a starting point for discussions within our group; however, we encourage an open dialogue about any research areas that extend beyond these topics, provided they broadly align with the fields of <strong>computer vision and machine learning</strong>, as we are enthusiastic about exploring and engaging in a wide range of novel research opportunities within these domains.
+description: <p>The following list outlines various <strong>general research directions</strong> that can serve as a starting point for discussions within our group; however, we encourage an open dialogue about any research areas that extend beyond these topics, provided they broadly align with the fields of <strong>computer vision and machine learning</strong>, as we are enthusiastic about exploring and engaging in a wide range of novel research opportunities within these domains.</p>
 nav: true
 nav_order: 3
 ---
@@ -11,7 +11,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/14ywJGC6_wL-f7Rdfei_s-S6AS0KVq7v5TCznnbKmXpM/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 3 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Multiple Attribute Edits</h1>
+            <p class="project-title"    >Multiple Attribute Edits</p>
           </a>
         </div>
       </div> -->
@@ -26,7 +26,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/1nb1r7Y4xDJHVA1_9HKWnB5sotyzHiqrZl1sOPCP4tfw/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 2 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Compositions in Diffusion models</h1>
+            <p class="project-title" >Compositions in Diffusion models</p>
           </a>
         </div>
       </div>
@@ -36,7 +36,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/170offqFeyc0ygiTgFbogK_hW8D8o_FNPfyLPfBW-bik/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 1 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Image Watermarking</h1>
+            <p class="project-title" >Image Watermarking</p>
           </a>
         </div>
       </div>
@@ -47,7 +47,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/1IoLWyCOPngG-hn7-gCkMcrRqn9qL9WbuY09f9ii-tCA/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 2 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Data Scarcity in Medical Imaging</h1>
+            <p class="project-title" >Data Scarcity in Medical Imaging</p>
           </a>
         </div>
       </div>
@@ -57,7 +57,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/1xxy7go-O5HqnjuoLC1Zg8_43a_TqVGeCh8akakG9JEI/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 1 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Equivariance Augmentation</h1>
+            <p class="project-title" >Equivariance Augmentation</p>
           </a>
         </div>
       </div>
@@ -67,7 +67,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/1sxRdTEIDzdcXC194EXapWzxO_eqkZ4lbgr97Z0sVCS0/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 3 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Personalized T2V</h1>
+            <p class="project-title" >Personalized T2V</p>
           </a>
         </div>
       </div>     
@@ -77,7 +77,7 @@ nav_order: 3
         <div class="project-card" style="text-align: center;">
           <a href="https://docs.google.com/document/d/1bt1FpSlChjs3kIZCrJfv9i6NImE4b2qbbMt7PI9OV7I/edit?usp=sharing" target="_blank">
             <img src="{{ site.baseurl }}/assets/img/google-docs.png" alt="Project 3 Image" class="project-image" style="width: 80%; max-width: 200px; height: auto;">
-            <h1 class="project-title" style="font-size: 24px;">Gaussian Splatting</h1>
+            <p class="project-title" >Gaussian Splatting</p>
           </a>
         </div>
       </div>          
