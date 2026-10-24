@@ -6,7 +6,7 @@ permalink: /group/
 description:
 nav: true
 nav_order: 4
-external_url: https://soniya-vishnu.github.io/VistaAI/
+external_url: https://cvml-group-ub.github.io/CVML/
 ---
 
 <header style="
