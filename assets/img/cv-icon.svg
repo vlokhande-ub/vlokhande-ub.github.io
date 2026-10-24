@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+  <!-- CV icon: same 448x512 box as the Font Awesome LinkedIn icon, letters cut out -->
+  <mask id="letters">
+    <rect width="448" height="512" fill="#fff"/>
+    <path d="M190.9 249.1A72 72 0 1 0 190.9 350.9" fill="none" stroke="#000" stroke-width="44"/>
+    <path d="M262 226L318 374L374 226" fill="none" stroke="#000" stroke-width="44" stroke-linejoin="round"/>
+  </mask>
+  <g fill="#000" mask="url(#letters)">
+    <path d="M64 32H320V128a32 32 0 0 0 32 32H448V416a64 64 0 0 1-64 64H64a64 64 0 0 1-64-64V96A64 64 0 0 1 64 32Z"/>
+    <path d="M352 32L448 128H352Z"/>
+  </g>
+</svg>

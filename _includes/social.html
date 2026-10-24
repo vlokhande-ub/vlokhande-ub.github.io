@@ -1,6 +1,6 @@
              {%- if site.cv_id -%}
             <a href="https://drive.google.com/file/d/{{ site.cv_id }}/view" title="CV{% if site.cv_updated %} (Last updated: {{ site.cv_updated }}){% endif %}">
-            <i class="fa fa-xs fa-file"></i></a>
+            <i class="cv-icon"></i></a>
             {% endif %}
             {%- if site.email -%}
             <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
